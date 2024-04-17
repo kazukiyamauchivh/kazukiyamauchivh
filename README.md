@@ -7,8 +7,8 @@
 
 <img src="https://skillicons.dev/icons?i=windows,azure,powershell,aws,docker,linux,redhat,ubuntu" /> <br /><br />
 
-  ※Another skill and tools
-  EntraID(SAML/OIDC), Active Directory, VMware vSphere, VMWare NSX, HCI(Nutanix), NetApp, BIG-IP, Palo Alto,FortiGate, Cisco Router&Switch, WSUS and so on.
+  ※Another Skill and Tools<br>
+  EntraID(SAML/OIDC), Active Directory, VMware vSphere, VMWare NSX, HCI(Nutanix), NetApp, BIG-IP, Palo Alto, FortiGate, Cisco and so on.
   
 # NOW TRAINING
 
