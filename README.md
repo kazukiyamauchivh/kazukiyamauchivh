@@ -1,14 +1,14 @@
 # About Me
-I'm Kazuki Yamauchi.
-IT Infrastracture Engineer in Japan👋
----
+
+ I'm Kazuki Yamauchi.<br>
+ IT Infrastracture Engineer in Japan👋
 
 # My Skill and Tools
 
 <img src="https://skillicons.dev/icons?i=windows,azure,powershell,aws,docker,linux,redhat,ubuntu" /> <br /><br />
 
   ※Another skill and tools
-  EntraID(SAML/OIDC), Active Directory, VMware vSphere, VMWare NSX, HCI（Nutanix）, NetApp, BIG-IP, Palo Alto、FortiGate, Cisco Router&Switch, WSUS and so on.
+  EntraID(SAML/OIDC), Active Directory, VMware vSphere, VMWare NSX, HCI(Nutanix), NetApp, BIG-IP, Palo Alto,FortiGate, Cisco Router&Switch, WSUS and so on.
   
 # NOW TRAINING
 
