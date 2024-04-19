@@ -5,7 +5,7 @@
 
 # My Skill and Tools
 
-<img src="https://skillicons.dev/icons?i=windows,azure,powershell,aws,docker,linux,redhat,ubuntu" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=windows,azure,powershell,aws,linux,redhat,ubuntu" /> <br /><br />
 
   ※Another Skill and Tools<br>
   EntraID(SAML/OIDC), Active Directory, VMware vSphere, VMWare NSX, HCI(Nutanix), NetApp, BIG-IP, Palo Alto, FortiGate, Cisco and so on.
